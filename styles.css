@@ -1,0 +1,23 @@
+h1{
+   font-family: 'Yeon Sung';
+    color:white;
+    font-size:50px;
+}
+h3{
+    color:Bisque;
+    font-size:30px;
+}
+body{
+   background-image: url("https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+   text-align:center;
+}
+.button:hover{
+    background-color:blue;
+    color:white;
+}
+p{
+    color:white;
+    background-color:purple;
+    border-radius:90px;
+    font-size:50px;
+}
